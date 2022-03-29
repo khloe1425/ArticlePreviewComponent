@@ -209,6 +209,7 @@ ul {
     display: none;
   }
 }
+/* Desktop First */
 @media screen and (max-width: 768px) {
   .card {
     display: block;
