@@ -246,7 +246,7 @@ ul {
   .info__icon2 {
     display: none;
   }
-} 
+}
 @media screen and (max-width: 374px) {
   .info__icon {
     display: none;
